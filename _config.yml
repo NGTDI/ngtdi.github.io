@@ -1,3 +1,22 @@
-url: http://ngtdi.treegeckoproductions.com
-name: Not Going To Do It
-description: Your Anti-Resolution Management System
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               'Not Going To Do It'
+tagline:             'Your Anti-Resolution Management System'
+description:         'Succeed at not doing things with NGTDI'
+url:                 http://www.ngtdi.com
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Brian Nelson
+  url:               https://twitter.com/brian_e_nelson
+  email:             brian@ngtdi.com
+
+# Custom vars
+version:             1.0.0
